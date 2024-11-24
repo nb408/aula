@@ -1,4 +1,4 @@
-<html>
+<!Docthtml>
 <head> loja automotiva do NB </head>
 <title> venha comprar com o 01 </title>
 <body> carros recostruidos </body>
@@ -21,4 +21,4 @@
 <li> fiat uno </li>
 <li> voyage </li>
 </ul>
-</html>
+</!Docthtml>
